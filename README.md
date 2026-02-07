@@ -88,7 +88,7 @@ The code is provided as-is and may change without notice.
 
 ## License
 
-[Choose a license, e.g., MIT or Apache-2.0]
+[Apache-2.0]
 
 ---
 
